@@ -1,4 +1,5 @@
 Battleship in Java: A Console Odyssey
+
 Ahoy, mateys! ⚓️
 
 Prepare to set sail on a digital adventure with this pure Java implementation of the classic Battleship game!
